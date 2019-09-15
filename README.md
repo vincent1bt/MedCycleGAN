@@ -2,7 +2,7 @@
 
 En este trabajo se presenta una **Generative Adversarial Network** (GAN) para transformar imágenes medicas de tipo MR y PET a imágenes CT. La principal ventaja es reducir los costes, el tiempo y la experiencia del paciente. Muchas veces es necesario sacar distintos tipos de tomografías para evaluar diferentes detalles del paciente, por ejemplo las imágenes MR se usan para detectar tumores en distintos órganos y las tomografías computarizadas se utilizan para planear la dosis en el tratamiento. 
 
-Puedes descargar el notebook en este repositorio y visualizarlo [aqui](https://nbviewer.jupyter.org/github/vincent1bt/MedCycleGAN/blob/master/MedCycleGAN.ipynb)
+Puedes descargar el notebook con todo el código en TensorFlow 2.0 en este repositorio o visualizarlo [aquí](https://nbviewer.jupyter.org/github/vincent1bt/MedCycleGAN/blob/master/MedCycleGAN.ipynb)
 
 ### Imágenes CT
 Una tomografía computarizada (TC) es una imagen medica que combina una serie de radiografías que se toman desde diferentes ángulos. De estas imágenes podemos obtener información sobre los huesos, vasos sanguíneos y tejidos blancos. Se pueden utilizar para planificar tratamientos medicos, diagnosticar tumores óseos y fracturas o diagnosticar trastornos musculares y óseos.
